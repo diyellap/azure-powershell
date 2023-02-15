@@ -20,5 +20,7 @@
   "port1": 8000,
   "spotPriority": "Spot",
   "spotPriorityContainerGroupName": "test-spot-priority-cgk82lw",
-  "containerGroupName4": "test-cgru9h2"
+  "containerGroupName4": "test-cgru9h2",
+  "confidentialSku": "Confidential",
+  "confidentialContainerGroupName": "test-confidential-containergroup"
 }
